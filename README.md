@@ -4,7 +4,7 @@ The RGB Color Picker tool allows users to adjust the red, green, and blue values
 
 ## Preview 
 
-  - <a href="https://vanesabordanaro.github.io//">Live Preview</a>
+  - <a href="https://vanesabordanaro.github.io/rgb-color-picker/">Live Preview</a>
 
 ## Overview
 
